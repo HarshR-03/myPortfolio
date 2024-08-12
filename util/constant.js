@@ -48,7 +48,7 @@ const educationDetails =[{
 }]
 const contactDetails = [{name:"Address",value:"Bhopal, Madhya Pradesh, India"},{name:"Email",value:"apuharshu@gmail.com"},{name:"Contact",value:"+91 9425014361"},{name:"Social Profiles",value:{"linkedin" : "https://in.linkedin.com/in/harsh-reddy-2697b4317","github":"https://github.com/HarshR-03","gmail":"mailto:apuharshu@gmail.com"}}]
 const about = "I am in my B.Tech from BIT MESRA, Ranchi  (Jharkhand). I have worked on multiple projects using different tehnologies like JS, Nodejs, ExpressJs,Next.JS, GIT, JWT, HTML, CSS, Postman."
-const experienceDetails = [{name:"TEXAS INSTRUMENT",role:"UPCOMING SWE INTERN",date:"MAY, 2025 ",location:"Banglore, India", responsibility:[""],link:""}]
+const experienceDetails = [{name:" St. Xavier's School, Bhopal",role:"Head Boy",date:"MAY, 2020",location:"Bhopal, India", responsibility:[""],link:""}]
 const resumeLink = "https://drive.google.com/file/d/1AEPwv2ODD5Ca-3PM6o_0GnMncvSDY9ta/view?usp=sharing"
 const projects=[
 {
